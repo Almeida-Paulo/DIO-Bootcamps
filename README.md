@@ -1,2 +1,2 @@
 # DIO-Bootcamps
-Repositório para desafios
+Repositório para desafios e anotações importantes
