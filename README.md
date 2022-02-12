@@ -1,2 +1,4 @@
 # DIO-Bootcamps
-Repositório para desafios e anotações importantes
+
+Repositório para agrupar e organizar alguns desafios, conteúdos e anotações relevantes sobre os cursos dos bootcamps.
+
